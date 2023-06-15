@@ -16,7 +16,7 @@ section {
     align-items: center;
     flex-direction: column;
     padding: 50px;
-    gap: 10px;
+    gap: 150px;
 }
 
 .result {
@@ -49,6 +49,7 @@ form{
   text-align: center;
   outline: transparent;
   width :100%;
+  border-radius: 8px;
 }
 .submit{
   
